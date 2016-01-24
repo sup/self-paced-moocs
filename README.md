@@ -13,6 +13,10 @@ Although large repositories of online courses exist, many of the classes on site
 ### Mathematics for Computer Science
 ### Data Structures
 ### Operating Systems and Systems Programming
+* Advanced Operating Systems (Udacity, Georgia Tech)
+  * OS Refresher: https://www.udacity.com/courses/ud098
+  * Main Course: https://www.udacity.com/courses/ud189
+
 ### Algorithms
 ### Machine Learning and AI
 ### Networking and Distributed Systems
