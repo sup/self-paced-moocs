@@ -1,5 +1,5 @@
 # self-paced-moocs
-Although large repositories of online courses exist, many of the classes on sites like Coursera and Udacity are either not free or are available during specified time periods. This is a list of high quality, self-paced MOOCs covering computer science topics that fit the following criteria:
+Although large repositories of online courses exist, many of the classes on sites like Coursera and Udacity are either not free or are available during specified time periods. This is a list of high quality, self-paced online courses or MOOCs covering computer science topics that fit the following criteria:
 
 * Free
 * Self-Paced
@@ -13,7 +13,7 @@ Although large repositories of online courses exist, many of the classes on site
 ### Mathematics for Computer Science
 ### Data Structures
 ### Operating Systems and Systems Programming
-* Advanced Operating Systems (Udacity, Georgia Tech)
+*__Advanced Operating Systems__ (Udacity, Georgia Tech)
   * OS Refresher: https://www.udacity.com/courses/ud098
   * Main Course: https://www.udacity.com/courses/ud189
 
