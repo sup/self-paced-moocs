@@ -6,6 +6,12 @@ Although large repositories of online courses exist, many of the classes on site
 * Have lecture notes __and__ videos
 * Assignments (Optional)
 
+The following format will be used to add entries to this README file:
+
+* __Course Title__ (Institutions, Comma, Separated)
+ * Relevant links to course 
+ * and coure materials
+
 ## Table of Contents
 
 ## Topics
