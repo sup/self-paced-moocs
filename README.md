@@ -25,6 +25,9 @@ The following format will be used to add entries to this README file:
 
 ### Algorithms
 ### Machine Learning and AI
+* __Deep Learning__ (Udacity, Google)
+  * Main Course: https://www.udacity.com/course/deep-learning--ud730
+
 ### Networking and Distributed Systems
 ### Graphics and Computer Vision
 ### Databases
